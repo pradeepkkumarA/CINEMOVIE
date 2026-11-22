@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Private reference files (never commit)
+Movie Review.pdf
+TMDB API .txt
+
+# Logs & editor
+*.log
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
+.netlify/
+
+# Single-file HTML build
+release/

@@ -12,6 +12,7 @@ dist/
 # Private reference files (never commit)
 Movie Review.pdf
 TMDB API .txt
+movie review api key.txt
 
 # Logs & editor
 *.log

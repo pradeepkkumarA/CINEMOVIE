@@ -39,7 +39,7 @@ It runs entirely on a built-in catalogue of 29 films spanning 1942–2024 and 16
 | Styling | Tailwind CSS v4 (`@tailwindcss/vite`) |
 | State | React Hooks + Context (`useState`, `useEffect`, `useMemo`, `useCallback`, `useContext`, custom hooks) |
 | Icons | lucide-react |
-| Data | Local JSON-style catalogue (`src/data/movies.js`) |
+| Data | TMDB API via a Netlify Function proxy, with a local fallback catalogue (`src/data/movies.js`) |
 
 ## Getting started
 
